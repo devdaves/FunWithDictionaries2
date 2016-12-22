@@ -1,1 +1,1 @@
-This repository is for a blogpost at blog.devdave.com.
+This repository is for a blogpost at http://blog.devdave.com/2016/12/tuple-dictionary-key.html.
